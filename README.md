@@ -9,7 +9,7 @@ This project was an exploratory data analysis, focused on storytelling(I used Py
 
 <br>
 <p align="left">
-  <img src="https://github.com/eubrunoosouza/Airbnb_DS_project/blob/02cbf72bd8088dd34f66d64c015f77b9c4781a06/MISC/airbnb.gif">
+  <img src="https://github.com/eubrunoosouza/COVID-19_Project/blob/main/MISC/COVID-19.gif">
 </p>
 <br>
 
