@@ -2,7 +2,7 @@
 
 
 
-# Exploratory Data Analysis (COVID-19) [BRAZIL AND WORLDWIDE].
+# Exploratory Data Analysis (COVID-19).
 
 This project was an exploratory data analysis, focused on storytelling(I used Python coding language) from a dataset provided by Our World in Data (OWID) in order to make an analysis that can be useful for studies on COVID-19 data in Brazil and in the world.
 
